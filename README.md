@@ -57,7 +57,7 @@ fetchAll({
   })
 ```
 
-### 非跨域请求 如果dataType不是jsonp 则按照XMLHttpRequest
+### 非跨域请求 是按照dataType不是jsonp来判断的 则按照XMLHttpRequest进行请求
 
 ```javascript
 fetchAll({
