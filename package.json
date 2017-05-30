@@ -1,0 +1,26 @@
+{
+  "name": "fetch-all",
+  "version": "1.0.0",
+  "description": "The fetch - all can be synchronous and asynchronous request by the promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hello-sunbaixin/fetch-all.git"
+  },
+  "keywords": [
+    "fetch",
+    "fetch-all",
+    "promise",
+    "ajax",
+    "jsonp"
+  ],
+  "author": "jerry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hello-sunbaixin/fetch-all/issues"
+  },
+  "homepage": "https://github.com/hello-sunbaixin/fetch-all#readme"
+}
